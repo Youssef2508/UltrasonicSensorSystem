@@ -48,10 +48,6 @@ Ultrasonic Distance Measurement System (ATmega32)
 - Uses Timer1 Input Capture Unit (ICU)
 - Measures rising and falling edges of Echo signal
 
-📸 Simulation / Circuit
-
-(Add Proteus Screenshot Here)
-
 🎯 Learning Outcomes
 
 - Working with Input Capture Unit (ICU)
